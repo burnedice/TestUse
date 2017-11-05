@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitTest
 {
-    class TestClass1
+    class Foo1
     {
-        void Foo1()
-        {
-            Console.WriteLine();
-        }
     }
 }
