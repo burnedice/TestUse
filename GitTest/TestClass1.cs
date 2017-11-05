@@ -10,6 +10,7 @@ namespace GitTest
     {
         void Foo1()
         {
+            Console.WriteLine();
         }
     }
 }
