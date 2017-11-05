@@ -9,5 +9,6 @@ namespace GitTest
     class Foo1
     {
         //test2
+        //test all
     }
 }
